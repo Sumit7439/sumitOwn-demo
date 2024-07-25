@@ -1,2 +1,3 @@
 # sumitOwn-demo
-THis is my first Git Repository
+This is my first Git Repository
+author - Sumit Sharma
